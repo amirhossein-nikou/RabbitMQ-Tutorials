@@ -1,0 +1,4 @@
+*.*.* => you can put any word when see * (not more than stars count) - its 3 word like amir.hossein.nikoo - any.any.any
+#.anything => can put any word in # just last word should be "anything" - amir.nikoo.hossein.mmd.anything // anything.anything
+foo.bar.* => start with foo.bar finish with any single word => foo.bar.amir 
+foo.bar.# => start with foo.bar finish with any word (can be more than one word) - foo.bar.amir.nikoo.test
